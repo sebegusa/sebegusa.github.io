@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://sebegusa.github.io/sitemap/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/Jgb/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/jHp/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/ing/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/NXw/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/Jqp/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/Qki/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/ngb/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/ZWt/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/EkV/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/DEn/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/yLc/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/Kfi/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/Ecx/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/cmF/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/iGl/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/Tum/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/dgi/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/BPt/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/pUQ/sitemap_index.sebegusa
+Sitemap: https://sebegusa.github.io/JEA/sitemap_index.sebegusa
